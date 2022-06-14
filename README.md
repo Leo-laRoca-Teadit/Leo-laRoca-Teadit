@@ -5,4 +5,5 @@
 of gasket and packings.
 - 📫 How to reach me: You can contact me at leonardo.roca@teadit.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLeo-laRoca-Teaditanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-laRoca-Teadit)](https://github.com/anuraghazra/github-readme-stats)

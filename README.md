@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate on projects related to math models of flange and valve simulations, codes and projects involved in the modeling of sealing mechanisms 
 of gasket and packings.
 - 📫 How to reach me: You can contact me at leonardo.roca@teadit.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLeo-laRoca-Teaditanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
